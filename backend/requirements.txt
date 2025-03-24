@@ -1,0 +1,13 @@
+docling
+docling-core
+langchain
+groq
+langchain_groq
+langchain-huggingface
+sentence-transformers
+bs4
+python-dotenv
+faiss-cpu
+chromadb
+fastapi
+langgraph
